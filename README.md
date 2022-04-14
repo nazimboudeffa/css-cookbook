@@ -14,6 +14,8 @@ Inline
 
 Internal
 
+Dans le head juste après la balise title
+
 ```
 <style>
   p {
@@ -21,3 +23,11 @@ Internal
   }
 </style>
 ```
+
+External
+
+Dans le head juste après la balise title
+
+`
+<link href='./style.css' rel='stylesheet'>
+`
