@@ -8,7 +8,7 @@ Il y a trois manières d'ajouter du CSS à un élémenet
 * internal
 * external
 
-**Inline **
+**Inline**
 
 `<p style="color : red;">Ceci est un paragraphe</p>`
 
