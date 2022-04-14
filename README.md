@@ -10,4 +10,14 @@ Il y a trois manières d'ajouter du CSS à un élémenet
 
 Inline 
 
-<p style="colore : red;">Ceci est un paragraphe</p>
+`<p style="color : red;">Ceci est un paragraphe</p>`
+
+Internal
+
+```
+<style>
+  p {
+    colore : red;
+  }
+</style>
+```
