@@ -8,7 +8,7 @@
     <!-- external -->
     <link href='./style.css' rel='stylesheet'>
   </head>
-    <!-- internal>
+    <!-- internal -->
     <style>
       p : {
         background-color : blue;
