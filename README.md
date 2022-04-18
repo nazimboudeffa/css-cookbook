@@ -18,7 +18,7 @@ N'oubliez pas que le travail c'est avant tout : Passion, Persévérence, Pratiqu
 
 # License & Copyright
 
-The original **Le MAnuel du CSS** is licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unported License][license]. You are free:
+The original **Le Manuel du CSS** is licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unported License][license]. You are free:
 
 * to Share—to copy, distribute and transmit the work
 * to Remix—to adapt the work
