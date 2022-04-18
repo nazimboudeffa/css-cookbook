@@ -1,3 +1,16 @@
+## Code HTML de base
+
+```
+<!DOCTYPE html>
+<html>
+  <head>
+    <title></title>
+  </head>
+  <body>
+  </body>
+</html>
+```
+
 ## Ajouter du CSS
 
 Il y a trois manières d'ajouter du CSS à un élémenet
