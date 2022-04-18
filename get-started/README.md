@@ -1,3 +1,3 @@
 # Bien Commencer en CSS
 
-Pour bien commencer il faut apprendre un peu d'HTML
+* [Chapitre 1](https://github.com/nazimboudeffa/handbook-css/blob/main/get-started/ch1.md)
