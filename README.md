@@ -14,7 +14,7 @@ Je vous recommande de lire ce livre dans cet ordre mais vous pouvez aussi sauter
 
 # La Règle des 3P+1
 
-N'oubliez pas que le travail c'est avant tout : Passion, Persévérence, Pratique + Patience
+N'oubliez pas que le travail c'est avant tout : Passion, Persévérence, Pratique + Patience mais vous pouvez aussi me motiver [![Faire un Don en Tacos](https://i.ibb.co/M2fjngP/index.jpg)](https://fr.tipeee.com/nazimboudeffa#reward-300065)
 
 # License & Copyright
 
