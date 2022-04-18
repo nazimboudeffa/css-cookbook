@@ -4,9 +4,19 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title></title>
+    <title>Ceci est une Page</title>
+    <!-- external -->
+    <link href='./style.css' rel='stylesheet'>
   </head>
+    <!-- internal>
+    <style>
+      p : {
+        background-color : blue;
+      }
+    </style>
   <body>
+    <!-- inline -->
+    <p style="color : red">Ceci est un paragraphe</p>
   </body>
 </html>
 ```
