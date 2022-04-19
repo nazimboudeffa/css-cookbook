@@ -1,5 +1,7 @@
 ## Code HTML de base
 
+Ce que vous allez trouver entre `<!-- ... -->` ce sont des commentaires
+
 ```
 <!DOCTYPE html>
 <html>
