@@ -6,6 +6,8 @@ Ce manuel est un ensemble de notes que j'ai pris au dfur et à mesure de mes lec
 
 Je vous recommande de lire ce livre dans cet ordre mais vous pouvez aussi sauter à une partie de votre choix
 
+* Avant Propos
+* Préface
 * [Introduction : C'est quoi le CSS ?](https://github.com/nazimboudeffa/handbook-css/blob/main/intro.md)
 * [Chapitre 1 : Bien Commencer en CSS](https://github.com/nazimboudeffa/handbook-css/blob/main/ch1.md)
 * [Chapitre 2 : Selecteurs](https://github.com/nazimboudeffa/handbook-css/blob/main/ch2.md)
