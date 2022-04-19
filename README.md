@@ -6,7 +6,7 @@ Je vous recommande de lire ce livre dans cet ordre mais vous pouvez aussi sauter
 
 * [Introduction : C'est quoi le CSS ?](https://github.com/nazimboudeffa/handbook-css/blob/main/intro.md)
 * [Chapitre 1 : Bien Commencer en CSS](https://github.com/nazimboudeffa/handbook-css/blob/main/ch1.md)
-* Selecteurs
+* [Chapitre 2 : Selecteurs](https://github.com/nazimboudeffa/handbook-css/blob/main/ch2.md)
 * Box Model
 * Positionnement
 * Responsive
