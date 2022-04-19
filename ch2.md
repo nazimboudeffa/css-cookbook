@@ -1,6 +1,6 @@
 # La Forme des Règles CSS
 
-<img src="images/css-rule.png" width="300">
+<img src="images/css-ruleset.png" width="300">
 
 # Différents selecteurs
 
