@@ -1,4 +1,4 @@
-# La Forme des Règles CSS
+# La forme des règles CSS
 
 <img src="images/css-ruleset.png" width="300">
 
