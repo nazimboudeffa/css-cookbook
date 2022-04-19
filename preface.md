@@ -5,3 +5,5 @@ J'ai longtemps contribué à Phaser v2 et non pas les versions d'après car ça 
 Je me suis mis à fond à CSS grace à MisterTest (j'ai pas encore de pseudo, enfin si mais sur GitHub pas encore), j'adore le webdev c'est très passionnant et comme je l'explique avec ma méthode des 3P+1 il faut s'accrocher dans ce domaine pour percer, mais de toute façon en France on fait pas grand chose avec sinon des sites WordPress (je devrais m'y mettre)
 
 Ce manuel est un ensemble de notes que j'ai pris au fur et à mesure de mes lectures sur le sujet du webdev et particulièrement le CSS que je souhaite maitriser
+
+Il y a beaucoup de choses à comprendre et des choses à apprendre par coeur mais pas tout, juste l'essentiel qui permet d'avoir une discussion convenable comme nous en avons avec MisterTest
