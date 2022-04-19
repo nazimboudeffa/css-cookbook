@@ -1,3 +1,7 @@
+# La Forme des Règles CSS
+
+<img src="images/css-rule.png" width="300">
+
 # Différents selecteurs
 
 Voici les principales façons d'affecter des propriétés CSS à des éléments
