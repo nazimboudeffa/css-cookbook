@@ -43,6 +43,7 @@ Il y a aussi d'autres manières d'affeter des propriétés CSS à un élément, 
 # Pseudo classes
 
 Pseudo classe | Description
+--- | --- 
 :active | an element being activated by the user (e.g. clicked). Mostly used on links or buttons
 :checked | a checkbox, option or radio input types that are enabled
 :default | the default in a set of choices (like, option in a select or radio buttons)
