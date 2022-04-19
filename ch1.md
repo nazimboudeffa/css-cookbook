@@ -1,6 +1,6 @@
 ## Code HTML de base
 
-Ce que vous allez trouver entre `<!-- ... -->` ce sont des commentaires sinon vous pouvez lire [l'introduction](https://github.com/nazimboudeffa/handbook-css/blob/main/intro.md)
+Ce que vous lisez entre `<!-- ... -->` ce sont des commentaires sinon vous pouvez lire [l'introduction](https://github.com/nazimboudeffa/handbook-css/blob/main/intro.md)
 
 ```
 <!DOCTYPE html>
