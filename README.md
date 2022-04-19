@@ -1,5 +1,7 @@
 # Le Manuel du CSS
 
+Ce manuel est un ensemble de notes que j'ai pris au dfur et à mesure de mes lectures sur le sujet
+
 <img src="images/cover.png" width="300">
 
 Je vous recommande de lire ce livre dans cet ordre mais vous pouvez aussi sauter à une partie de votre choix
