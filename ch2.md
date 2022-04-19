@@ -1,6 +1,6 @@
 # Différents selecteurs
 
-Voici les principales manières d'affecter des propriétés CSS à des éléments
+Voici les principales façons d'affecter des propriétés CSS à des éléments
 
 Selecteur par balise/tag
 
