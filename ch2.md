@@ -1,9 +1,11 @@
 # Différents selecteurs
 
+Voici les principales manières d'affecter des propriétés CSS à des éléments
+
 Selecteur par balise/tag
 
 ```
-p {
+div {
  ...
 }
 ```
@@ -31,3 +33,5 @@ Selecteur universel qui s'applique à tous les éléments
  ...
 }
 ```
+
+Il y a aussi d'autres manières d'affeter des propriétés CSS à un élément
