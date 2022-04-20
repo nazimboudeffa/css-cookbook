@@ -14,7 +14,7 @@ Je vous recommande de lire ce livre dans cet ordre mais vous pouvez aussi sauter
 * Responsive
 * Animation
 * Compilation
-* Références
+* [Références](https://github.com/nazimboudeffa/handbook-css/blob/main/references.md)
 
 # La Règle des 3P+1
 
