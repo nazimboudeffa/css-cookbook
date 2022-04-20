@@ -8,12 +8,12 @@ Je vous recommande de lire ce livre dans cet ordre mais vous pouvez aussi sauter
 * [Préface](https://github.com/nazimboudeffa/handbook-css/blob/main/preface.md)
 * [Introduction : C'est quoi le CSS ?](https://github.com/nazimboudeffa/handbook-css/blob/main/intro.md)
 * [Chapitre 1 : Bien Commencer en CSS](https://github.com/nazimboudeffa/handbook-css/blob/main/ch1.md)
-* [Chapitre 2 : Selecteurs](https://github.com/nazimboudeffa/handbook-css/blob/main/ch2.md)
-* Box Model
-* Positionnement
-* Responsive
-* Animation
-* Compilation
+* [Chapitre 2 : Comprendre les Selecteurs](https://github.com/nazimboudeffa/handbook-css/blob/main/ch2.md)
+* Le Fameux Box Model
+* Positionnement au plus simple
+* Responsive, Flexbox, Grid, ...
+* Animation et quelques trucs marrants
+* Compilation avec SASS
 * [Références](https://github.com/nazimboudeffa/handbook-css/blob/main/references.md)
 
 # La Règle des 3P+1
