@@ -14,6 +14,7 @@ Je vous recommande de lire ce livre dans cet ordre mais vous pouvez aussi sauter
 * Responsive
 * Animation
 * Compilation
+* Références
 
 # La Règle des 3P+1
 
