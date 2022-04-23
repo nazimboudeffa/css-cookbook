@@ -40,6 +40,40 @@ Selecteur universel qui s'applique à tous les éléments
 
 Il y a aussi d'autres manières d'affeter des propriétés CSS à un élément, les pseudo classes
 
+# Combinateurs
+
+Ciblage adjascent
+
+```
+div + p {
+...
+}
+```
+
+Ciblage général
+
+```
+div ~ p {
+...
+}
+```
+
+Enfant
+
+```
+div > p {
+...
+}
+```
+
+Descendant
+
+```
+div p {
+...
+}
+```
+
 # Pseudo classes
 
 Pseudo classe | Description
