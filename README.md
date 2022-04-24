@@ -11,7 +11,9 @@ Je vous recommande de lire ce livre dans cet ordre mais vous pouvez aussi sauter
 * [Chapitre 2 : Comprendre les Selecteurs](https://github.com/nazimboudeffa/handbook-css/blob/main/selectors.md)
 * [Chapitre 3 : Le Fameux Box Model](https://github.com/nazimboudeffa/handbook-css/blob/main/boxmodel.md)
 * Positionnement au plus simple
-* Responsive, Flexbox, Grid, ...
+* Responsive 
+* [Flex ou la Flexibilité](https://github.com/nazimboudeffa/handbook-css/blob/main/flex.md)
+* FlexGrid
 * Animation et quelques trucs marrants
 * Compilation avec SASS
 * [Références](https://github.com/nazimboudeffa/handbook-css/blob/main/references.md)
