@@ -10,7 +10,7 @@ Je vous recommande de lire ce livre dans cet ordre mais vous pouvez aussi sauter
 * [Chapitre 1 : Bien Commencer en CSS](https://github.com/nazimboudeffa/handbook-css/blob/main/start.md)
 * [Chapitre 2 : Comprendre les Selecteurs](https://github.com/nazimboudeffa/handbook-css/blob/main/selectors.md)
 * [Chapitre 3 : Le Fameux Box Model](https://github.com/nazimboudeffa/handbook-css/blob/main/boxmodel.md)
-* Positionnement au plus simple
+* [Positionnement au plus simple](https://github.com/nazimboudeffa/handbook-css/blob/main/position.md)
 * Responsive 
 * [Flex ou la Flexibilité](https://github.com/nazimboudeffa/handbook-css/blob/main/flex.md)
 * FlexGrid
