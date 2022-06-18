@@ -10,12 +10,12 @@ Je vous recommande de lire ce livre dans cet ordre mais vous pouvez aussi sauter
 * [Chapitre 1 : Bien Commencer en CSS](https://github.com/nazimboudeffa/handbook-css/blob/main/start.md)
 * [Chapitre 2 : Comprendre les Selecteurs](https://github.com/nazimboudeffa/handbook-css/blob/main/selectors.md)
 * [Chapitre 3 : Le Fameux Box Model](https://github.com/nazimboudeffa/handbook-css/blob/main/boxmodel.md)
-* [Positionnement au plus simple](https://github.com/nazimboudeffa/handbook-css/blob/main/position.md)
-* Responsive 
-* [Flex ou la Flexibilité](https://github.com/nazimboudeffa/handbook-css/blob/main/flex.md)
-* FlexGrid
-* Animation et quelques trucs marrants
-* Compilation avec SASS
+* [Chapitre 4 : Positionnement au plus simple](https://github.com/nazimboudeffa/handbook-css/blob/main/position.md)
+* Chapitre 5 : Responsive 
+* [Chapitre 6 : Flex ou la Flexibilité](https://github.com/nazimboudeffa/handbook-css/blob/main/flex.md)
+* Chapitre 7 : FlexGrid
+* Chapitre 8 : Animation et quelques trucs marrants
+* Chapitre 9 : Compilation avec SASS
 * [Références](https://github.com/nazimboudeffa/handbook-css/blob/main/references.md)
 
 # La Règle des 3P+1
