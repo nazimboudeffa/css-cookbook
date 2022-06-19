@@ -6,7 +6,7 @@
 
 Voici les principales façons d'affecter des propriétés CSS à des éléments
 
-Selecteur par balise/tag
+Selecteur par balise/tag (selecteur de type)
 
 ```
 div {
