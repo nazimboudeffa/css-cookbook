@@ -6,7 +6,9 @@
 
 Voici les principales façons d'affecter des propriétés CSS à des éléments
 
-Selecteur par balise/element/tag (selecteur de type)
+## Selecteur de type
+
+par balise/element/tag (selecteur de type)
 
 ```
 p {
@@ -14,7 +16,9 @@ p {
 }
 ```
 
-Selecteur universel qui s'applique à tous les éléments et selectionne les elements de tous type, sert en général à faire un reset des propriétés du navigateur
+## Selecteur universel 
+
+Il s'applique à tous les éléments et selectionne les elements de tous type, sert en général à faire un reset des propriétés du navigateur
 
 ```
 * {
@@ -22,7 +26,9 @@ Selecteur universel qui s'applique à tous les éléments et selectionne les ele
 }
 ```
 
-Selecteur par classe permet de répéter les propriétés pour plusieurs autres éléments, c'est la manière la plus commune de selectionner un element
+## Selecteur par classe 
+
+Il permet de répéter les propriétés pour plusieurs autres éléments, c'est la manière la plus commune de selectionner un element
 
 ```
 .ma-classe{
@@ -46,7 +52,7 @@ Exemple :
 
 `<h1 class='green bold'> ... </h1>`
 
-Selecteur par identificateur
+## Selecteur par identificateur
 
 ```
 #mon-id {
