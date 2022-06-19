@@ -12,7 +12,7 @@ Je vous recommande de lire ce livre dans cet ordre mais vous pouvez aussi sauter
 * [Chapitre 3 : Le Fameux Box Model](https://github.com/nazimboudeffa/handbook-css/blob/main/boxmodel.md)
 * [Chapitre 4 : Positionnement au plus simple](https://github.com/nazimboudeffa/handbook-css/blob/main/position.md)
 * Chapitre 5 : Responsive 
-* [Chapitre 6 : Flex ou la Flexibilité](https://github.com/nazimboudeffa/handbook-css/blob/main/flex.md)
+* [Chapitre 6 : FlexBox ou la Flexibilité](https://github.com/nazimboudeffa/handbook-css/blob/main/flex.md)
 * Chapitre 7 : FlexGrid
 * Chapitre 8 : Animation et quelques trucs marrants
 * Chapitre 9 : Compilation avec SASS
