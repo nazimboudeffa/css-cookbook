@@ -54,7 +54,7 @@ Exemple :
 
 ## Selecteur par identificateur
 
-Il permet de faire une selection unique d'un élément
+Il permet de faire une selection unique d'un élément, contrairement au selecteur de classe qui sont séparés par un espace il ne peut être utilisé qu'un seul slecteur à la fois
 
 ```
 #mon-id {
