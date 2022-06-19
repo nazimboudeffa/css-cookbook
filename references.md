@@ -9,7 +9,7 @@ Je vais vous dire un truc, j'ai lu beaucoup de livres sur le CSS et surtout rega
 * https://packtpub.com CSS - The Complete Guide (incl. Flexbox, Grid and Sass), faut payer le nabot
 * https://flaviocopes.com/page/css-handbook il simplifie beaucoup le CSS
 * Beaucoup de cours sur [UDEMY](https://udemy.com) que j'ai trouvé sur dealabs.com
-* https://css-tricks.com/author/thebabydino pour les trucs de ouf qu'elle fait
-* https://www.youtube.com/watch?v=Q1Obtn29twk pour la qualité de la vidéo
+* https://css-tricks.com/author/thebabydino pour les trucs de ouf qu'elle fait et que des gens sont prêt à payer pour ça
+* https://www.youtube.com/watch?v=Q1Obtn29twk pour la qualité de la vidéo trouvée au hasard on va pas toutes les mettre
 
 Bon vent !
