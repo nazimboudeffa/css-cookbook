@@ -8,7 +8,7 @@ Voici les principales façons d'affecter des propriétés CSS à des éléments
 
 ## Selecteur de type
 
-par balise/element/tag (selecteur de type)
+par balise/élément/tag (selecteur de type)
 
 ```
 p {
@@ -53,6 +53,8 @@ Exemple :
 `<h1 class='green bold'> ... </h1>`
 
 ## Selecteur par identificateur
+
+Il permet de faire une selection unique d'un élément
 
 ```
 #mon-id {
