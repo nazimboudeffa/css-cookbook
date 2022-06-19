@@ -70,6 +70,8 @@ Comment selectionner des éléments spécifiques
 
 ## Parent > Enfant
 
+Séléctionne tous les éléments enfant qui sont des descendants directs d'un parent
+
 ```
 div > p {
 ...
@@ -92,6 +94,32 @@ section > p {
 }
 ```
 
+## parent enfant
+
+Selectionne tous les éléments enfants contenu dans un parent mais pas forcément juste les descendant directs
+
+```
+div p {
+...
+}
+```
+
+Exemple :
+
+```
+<section>
+ <article>
+  <p>Hello CSS !</p>
+ </article>
+</section>
+```
+
+```
+section p {
+ color: red;
+}
+```
+
 Ciblage adjascent
 
 ```
@@ -104,14 +132,6 @@ Ciblage général
 
 ```
 div ~ p {
-...
-}
-```
-
-Descendant
-
-```
-div p {
 ...
 }
 ```
