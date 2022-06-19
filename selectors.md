@@ -66,6 +66,8 @@ Il y a aussi d'autres manières d'affeter des propriétés CSS à un élément, 
 
 # Selection par Relation ou Combinateurs
 
+Comment selectionner des éléments spécifiques
+
 ## Parent > Enfant
 
 ```
