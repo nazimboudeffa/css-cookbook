@@ -30,7 +30,7 @@ Selecteur par classe permet de répéter les propriétés pour plusieurs autres 
 }
 ```
 
-Selecteur universel qui s'applique à tous les éléments
+Selecteur universel qui s'applique à tous les éléments et selectionne les elements de tous type
 
 ```
 * {
