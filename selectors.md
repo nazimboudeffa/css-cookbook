@@ -120,13 +120,32 @@ section p {
 }
 ```
 
-Ciblage adjascent
+## Ciblage Précèdent + Ciblage Adjascent
+
+Concerne tous les éléments qui suivent un ciblage
 
 ```
-div + p {
+p + p {
 ...
 }
 ```
+
+Exemple :
+
+```
+<section>
+ <p>Hello CSS !<p>
+ <p>Hello JS !<p>
+</section>
+```
+
+```
+p + p {
+ color: red;
+}
+```
+
+Ciblera uniquement les éléments paragraphes qui ont un paragraphe qui les précèdent
 
 Ciblage général
 
