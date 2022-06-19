@@ -4,7 +4,7 @@ Je vais vous dire un truc, j'ai lu beaucoup de livres sur le CSS et surtout rega
 
 * Mindmap Dessine moi l'intelligence par Tony Buzan, au combiens m'est-il chère pour le petit dessin sur la cov
 * You can have an amazing memory par Dominic O'Brian pour les listes à mémoriser
-* HTML&CSS design et création web par JON DUCKETT, quand je donnais des cours sur livecoding.tv il me fallait un réfèrence
+* HTML&CSS design et création web par JON DUCKETT, quand je donnais des cours sur livecoding.tv il me fallait un référence
 * https://www.codecademy.com/courses/learn-css indispensable
 * https://packtpub.com CSS - The Complete Guide (incl. Flexbox, Grid and Sass), faut payer le nabot
 * https://flaviocopes.com/page/css-handbook il simplifie beaucoup le CSS
