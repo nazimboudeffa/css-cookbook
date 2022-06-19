@@ -2,6 +2,7 @@
 
 Je vais vous dire un truc, j'ai lu beaucoup de livres sur le CSS et surtout regardé beaucoup de vidéos tellement que c'est impressionnant tout ce qu'on pêut faire avec donc voici quelques liens qui pourront vous mettre sur la bonne voie
 
+* Mindmaps by Tony Buzan
 * https://www.codecademy.com/courses/learn-css
 * https://packtpub.com
 * https://flaviocopes.com/page/css-handbook il simplifie beaucoup le CSS
