@@ -6,26 +6,10 @@
 
 Voici les principales façons d'affecter des propriétés CSS à des éléments
 
-Selecteur par balise/tag (selecteur de type)
+Selecteur par balise/element/tag (selecteur de type)
 
 ```
-div {
- ...
-}
-```
-
-Selecteur par identificateur
-
-```
-#mon-id {
- ...
-}
-```
-
-Selecteur par classe permet de répéter les propriétés pour plusieurs autres éléments
-
-```
-.ma-classe{
+p {
  ...
 }
 ```
@@ -34,6 +18,22 @@ Selecteur universel qui s'applique à tous les éléments et selectionne les ele
 
 ```
 * {
+ ...
+}
+```
+
+Selecteur par classe permet de répéter les propriétés pour plusieurs autres éléments, c'est la manière la plus commune de selectionner un element
+
+```
+.ma-classe{
+ ...
+}
+```
+
+Selecteur par identificateur
+
+```
+#mon-id {
  ...
 }
 ```
