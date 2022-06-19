@@ -64,7 +64,29 @@ Il permet de faire une selection unique d'un élément, contrairement au selecte
 
 Il y a aussi d'autres manières d'affeter des propriétés CSS à un élément, les pseudo classes
 
-# Combinateurs
+# Selection par Relation ou Combinateurs
+
+## Parent > Enfant
+
+```
+div > p {
+...
+}
+```
+
+Exemple :
+
+```
+<section>
+ <p>Hello CSS !</p>
+</section>
+```
+
+```
+section > p {
+ color: red;
+}
+```
 
 Ciblage adjascent
 
@@ -78,14 +100,6 @@ Ciblage général
 
 ```
 div ~ p {
-...
-}
-```
-
-Enfant
-
-```
-div > p {
 ...
 }
 ```
