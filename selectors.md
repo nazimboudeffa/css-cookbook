@@ -30,6 +30,22 @@ Selecteur par classe permet de répéter les propriétés pour plusieurs autres 
 }
 ```
 
+On peut ajouter plusieures classes à un element en les séparant par un espace
+
+Exemple :
+
+```
+.green {
+  color: green;
+}
+ 
+.bold {
+  font-weight: bold;
+}
+```
+
+`<h1 class='green bold'> ... </h1>`
+
 Selecteur par identificateur
 
 ```
