@@ -1,4 +1,4 @@
-# Le Manuel du CSS
+# Le CookBook du CSS
 
 <img src="images/cover.png" width="300">
 
