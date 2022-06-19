@@ -7,3 +7,5 @@ Je me suis mis à fond à CSS depuis que j'ai maitrisé les jeux 2d pour bien co
 Ce manuel est un ensemble de notes que j'ai pris au fur et à mesure de mes lectures sur le sujet du webdev et particulièrement le CSS que je souhaite maitriser
 
 Il y a beaucoup de choses à comprendre et des choses à apprendre par coeur mais pas tout, juste l'essentiel qui permet d'avoir une discussion convenable comme nous en avons avec PhotonStorm et MisterTest et tous les contributeurs (j'ai pas encore de pseudo sur GitHub)
+
+La couv vient de [YDKJS](https://github.com/getify/You-Dont-Know-JS)
