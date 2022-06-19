@@ -94,7 +94,7 @@ section > p {
 }
 ```
 
-## parent enfant
+## Parent Enfant
 
 Selectionne tous les éléments enfants contenu dans un parent mais pas forcément juste les descendant directs
 
