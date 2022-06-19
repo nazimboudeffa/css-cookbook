@@ -147,7 +147,9 @@ p + p {
 
 Ciblera uniquement les éléments paragraphes qui ont un paragraphe qui les précèdent
 
-Ciblage général
+## Ciblage Général
+
+Ciblage d'un ou plusieurs voisin immédiat ou pas enfants du même parent
 
 ```
 div ~ p {
