@@ -78,6 +78,8 @@ div > p {
 
 Exemple :
 
+Comment séléctionner les paragraphes dans une section et pas tous les paragraphes de la page
+
 ```
 <section>
  <p>Hello CSS !</p>
