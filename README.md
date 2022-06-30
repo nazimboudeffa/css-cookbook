@@ -20,7 +20,7 @@ Je vous recommande de lire ce livre dans cet ordre mais vous pouvez aussi sauter
 
 # La Règle des 3P+1
 
-N'oubliez pas que le travail c'est avant tout : Passion, Persévérence, Pratique + Patience, mais vous pouvez aussi me motiver pour cette histoire de **patience** en cliquant sur cette image 
+Il y a trois monnaies dans la vie, le temps, le savoir et bienentendu l'argent, ce que je vous offre c'est du temps et du savoir pour l'argent qui paye le travail, n'oubliez pas que le travail c'est avant tout : Passion, Persévérence, Pratique + Patience, mais vous pouvez aussi me motiver pour cette histoire de **patience** en cliquant sur cette image 
 
 [![Faire un Don en Tacos](https://i.ibb.co/M2fjngP/index.jpg)](https://fr.tipeee.com/nazimboudeffa#reward-300065)
 
