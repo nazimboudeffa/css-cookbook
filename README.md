@@ -15,7 +15,7 @@ Je vous recommande de lire ce livre dans cet ordre mais vous pouvez aussi sauter
 * [Chapitre 6 : FlexBox ou la Flexibilité](https://github.com/nazimboudeffa/handbook-css/blob/main/flex.md)
 * Chapitre 7 : FlexGrid
 * Chapitre 8 : Animation et quelques trucs marrants
-* Chapitre 9 : Compilation avec SASS
+* Chapitre 9 : [Compilation avec SASS](https://github.com/nazimboudeffa/handbook-css/blob/main/sass.md)
 * [Références](https://github.com/nazimboudeffa/handbook-css/blob/main/references.md)
 
 # La Règle des 3P+1
