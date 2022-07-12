@@ -179,3 +179,17 @@ Pseudo classe | Description
 :required | a form element with the required attribute set
 :root | represents the html element. It's like targeting html , but it's more specific. Useful in CSS Variables.
 :target | the element matching the current URL fragment (for inner navigation in the page)
+
+## before et after
+
+```
+ma-classe::before{
+ content: 'hello'
+}
+```
+
+```
+ma-classe::after{
+ content: 'world'
+}
+```
