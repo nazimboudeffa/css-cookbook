@@ -13,5 +13,6 @@ Je vais vous dire un truc, j'ai lu beaucoup de livres sur le CSS et surtout rega
 * https://css-tricks.com/author/thebabydino pour les trucs de ouf qu'elle fait et que des gens sont prêt à payer pour ça
 * https://www.youtube.com/watch?v=Q1Obtn29twk pour la qualité de la vidéo trouvée au hasard on va pas toutes les mettre
 * https://www.youtube.com/watch?v=Zz6eOVaaelI Sass
+* modifiers ce sont des propriété qui modifient une classe https://scrimba.com/scrim/cGym4Ta?pl=pV5eHk
 
 Bon vent !
