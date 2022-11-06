@@ -1,5 +1,7 @@
 # Le CookBook du CSS
 
+[DRAFT](https://docs.google.com/document/d/1E2N9YmWtJWmWixJDxr-IZCypce7EZXJ62ygJ7B5jdLI/edit?usp=sharing)
+
 <img src="images/cover-css-cookbook-600x900.png" width="300">
 
 Je vous recommande de lire ce livre dans cet ordre mais vous pouvez aussi sauter à une partie de votre choix
