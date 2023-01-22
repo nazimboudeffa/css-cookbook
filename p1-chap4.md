@@ -16,4 +16,4 @@ La propriété CSS "display" permet de contrôler la façon dont un élément es
 
 ## La propriété : float
 
-
+La propriété CSS "float" permet de faire flotter un élément à gauche ou à droite de la page, en le faisant sortir du flux normal des éléments. Cela permet notamment de créer des dispositions de type "boîte à côté de boîte", où plusieurs éléments sont disposés côte à côte. Les valeurs possibles pour cette propriété sont "left", "right" et "none" (valeur par défaut). Lorsqu'un élément est flottant, les éléments suivants s'enrouleront autour de lui, sauf si on utilise la propriété clear. Il est important de noter que les éléments flottants ne prennent pas en compte la hauteur de leur contenu dans le calcul de la hauteur de leur parent, il peut causer des problèmes de layout si on ne fait pas attention. Il existe des alternatives comme flexbox et grid layout qui peuvent être utilisées pour créer des dispositions plus flexibles et modernes.
