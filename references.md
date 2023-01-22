@@ -14,6 +14,6 @@ Je vais vous dire un truc, j'ai lu beaucoup de livres sur le CSS et surtout rega
 * https://www.youtube.com/watch?v=Q1Obtn29twk pour la qualité de la vidéo trouvée au hasard on va pas toutes les mettre
 * https://www.youtube.com/watch?v=Zz6eOVaaelI Sass
 * modifiers ce sont des propriété qui modifient une classe https://scrimba.com/scrim/cGym4Ta?pl=pV5eHk
-* * Le cours complet sur TailWin de Guillaume Duhan https://www.youtube.com/playlist?list=PL8HkCX2C5h0VM7zNTaGgRDEb0Mp18ttqp
+* Le cours complet sur TailWin de Guillaume Duhan https://www.youtube.com/playlist?list=PL8HkCX2C5h0VM7zNTaGgRDEb0Mp18ttqp
 
 Bon vent !
