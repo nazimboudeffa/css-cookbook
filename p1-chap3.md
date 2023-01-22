@@ -9,3 +9,23 @@ Pour faire en sorte que les box soient à la bonne taille voici le petit truc
   box-sizing : borderbox
 }
 ```
+
+## Padding et Margin
+
+Pour ajouter de l'espacement autour d'un élément, on peut utiliser les propriétés "padding" pour ajouter de l'espacement à l'intérieur de l'élément, ou les propriétés "margin" pour ajouter de l'espacement à l'extérieur de l'élément. Par exemple, si on veut ajouter un espace de 20 pixels autour d'un bouton, on peut utiliser cette déclaration:
+
+```
+button {
+  padding: 20px;
+}
+```
+
+## Border
+
+Pour ajouter une bordure autour d'un élément, on peut utiliser la propriété "border". Par exemple, si on veut ajouter une bordure rouge de 2 pixels autour d'un paragraphe, on peut utiliser cette déclaration:
+
+```
+p {
+  border: 2px solid red;
+}
+```
