@@ -9,7 +9,7 @@ Je vous recommande de lire ce livre dans cet ordre mais vous pouvez aussi sauter
 * [Avant Propos](https://github.com/nazimboudeffa/handbook-css/blob/main/forword.md) (par [MisterTest](https://github.com/mistertest))
 * [Préface](https://github.com/nazimboudeffa/handbook-css/blob/main/preface.md)
 * [Introduction : C'est quoi le CSS ?](https://github.com/nazimboudeffa/handbook-css/blob/main/intro.md)
-* Partie 1
+* Partie 1 Vanilla CSS
   * [Chapitre 1 : Bien Commencer en CSS](https://github.com/nazimboudeffa/handbook-css/blob/main/p1-chap1.md)
   * [Chapitre 2 : Comprendre les selecteurs](https://github.com/nazimboudeffa/handbook-css/blob/main/p1-chap2.md)
   * [Chapitre 3 : Le Fameux Box Model](https://github.com/nazimboudeffa/handbook-css/blob/main/p1-chap3.md)
