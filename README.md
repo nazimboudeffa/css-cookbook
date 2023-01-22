@@ -9,15 +9,17 @@ Je vous recommande de lire ce livre dans cet ordre mais vous pouvez aussi sauter
 * [Avant Propos](https://github.com/nazimboudeffa/handbook-css/blob/main/forword.md) (par [MisterTest](https://github.com/mistertest))
 * [Préface](https://github.com/nazimboudeffa/handbook-css/blob/main/preface.md)
 * [Introduction : C'est quoi le CSS ?](https://github.com/nazimboudeffa/handbook-css/blob/main/intro.md)
-* [Chapitre 1 : Bien Commencer en CSS](https://github.com/nazimboudeffa/handbook-css/blob/main/start.md)
-* [Chapitre 2 : Comprendre les selecteurs](https://github.com/nazimboudeffa/handbook-css/blob/main/selectors.md)
-* [Chapitre 3 : Le Fameux Box Model](https://github.com/nazimboudeffa/handbook-css/blob/main/boxmodel.md)
-* [Chapitre 4 : Positionnement au plus simple](https://github.com/nazimboudeffa/handbook-css/blob/main/position.md)
-* Chapitre 5 : Responsive 
-* [Chapitre 6 : FlexBox ou la Flexibilité](https://github.com/nazimboudeffa/handbook-css/blob/main/flex.md)
-* Chapitre 7 : FlexGrid
-* Chapitre 8 : Animation et quelques trucs marrants
-* [Chapitre 9 : Compilation avec SASS](https://github.com/nazimboudeffa/handbook-css/blob/main/sass.md)
+* Partie 1
+  * [Chapitre 1 : Bien Commencer en CSS](https://github.com/nazimboudeffa/handbook-css/blob/main/start.md)
+  * [Chapitre 2 : Comprendre les selecteurs](https://github.com/nazimboudeffa/handbook-css/blob/main/selectors.md)
+  * [Chapitre 3 : Le Fameux Box Model](https://github.com/nazimboudeffa/handbook-css/blob/main/boxmodel.md)
+  * [Chapitre 4 : Positionnement au plus simple](https://github.com/nazimboudeffa/handbook-css/blob/main/position.md)
+  * Chapitre 5 : Responsive 
+  * [Chapitre 6 : FlexBox ou la Flexibilité](https://github.com/nazimboudeffa/handbook-css/blob/main/flex.md)
+  * Chapitre 7 : FlexGrid
+  * Chapitre 8 : Animation et quelques trucs marrants
+  * [Chapitre 9 : Compilation avec SASS](https://github.com/nazimboudeffa/handbook-css/blob/main/sass.md)
+* Partie 2 : TailWindCSS
 * [Références](https://github.com/nazimboudeffa/handbook-css/blob/main/references.md)
 
 # La Règle des 3P+1
